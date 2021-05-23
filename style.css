@@ -14,7 +14,7 @@ height:50rem;
 }
 .dice{
 width:4rem;
-height:4rem;
+height:1rem;
 padding-left:2rem ;
 padding-right: 4rem ;
 padding-top:1rem;
@@ -25,17 +25,5 @@ padding-bottom:0.25rem;
 }
 .col_two{
 float:right;
-}
-.hidden_one{
-visibility:hidden;
-}
-.hidden_two{
-visibility: visible;
-}
-.draw_one{
-visibility: hidden;
-}
-.one{
-visibility: visible ;
 }
 }
