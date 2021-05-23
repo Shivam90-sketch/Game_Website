@@ -1,0 +1,41 @@
+body{
+padding:0;
+margin:0;
+background:powderblue;
+ }
+h1{
+padding-top:3rem;
+text-align:center;
+border-bottom: 2px solid blue;
+}
+.container{
+width: 50rem;
+height:50rem;
+}
+.dice{
+width:4rem;
+height:4rem;
+padding-left:2rem ;
+padding-right: 4rem ;
+padding-top:1rem;
+padding-bottom:0.25rem;
+}
+.col_one{
+ float:left;   
+}
+.col_two{
+float:right;
+}
+.hidden_one{
+visibility:hidden;
+}
+.hidden_two{
+visibility: visible;
+}
+.draw_one{
+visibility: hidden;
+}
+.one{
+visibility: visible ;
+}
+}
